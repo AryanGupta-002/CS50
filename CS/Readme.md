@@ -1,3 +1,3 @@
-CS- CS50X
-Python- CS50P
-Web- CS50W
+CS- CS50X <br>
+Python- CS50P <br>
+Web- CS50W <br>

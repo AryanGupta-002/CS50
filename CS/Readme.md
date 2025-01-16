@@ -1,3 +1,1 @@
-CS- CS50X <br>
-Python- CS50P <br>
-Web- CS50W <br>
+CS50 - Introduction to Computer Science (All Files)
